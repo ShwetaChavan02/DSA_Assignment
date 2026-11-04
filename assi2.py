@@ -1,3 +1,5 @@
+# Create a Stack with following operations 
+# Push Pop Display Reverse String using Stack Reverse Stack using another Stack
 
 stack = []
 

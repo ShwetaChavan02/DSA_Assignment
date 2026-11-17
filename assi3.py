@@ -1,4 +1,4 @@
-# Assignment 3 :
+# Assignment 3 : DSA
 # Q. 1 Hospital Emergency Management 
 # Develop a Python program to manage patients in a hospital using a Priority Queue 
 # Requirements:

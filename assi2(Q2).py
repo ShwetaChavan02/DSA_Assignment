@@ -1,4 +1,4 @@
-# Assignment 2 (Q2)
+# Assignment 2 (Q2) : DSA
 # Q. 2 Write a program to perform the following operations on a Linear Queue
 # Enqueue an element into the queue
 # Dequeue an element from the queue
